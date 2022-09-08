@@ -1,0 +1,6 @@
+id=sdcardunbinder
+name=SD card unbinder
+version=v1.0
+versionCode=1
+author=ungeskriptet
+description=Disable all SD cards on boot.
